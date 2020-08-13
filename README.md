@@ -1,6 +1,6 @@
 # Will, Your Personal Todo Assistant
 
-Simply your Todos. A web application to help you make sense of all of your opportunities. Your new organized life awaits. Built using HTML, Bootstrap and Django.<br><br>
+Simply your Todos. A web application to help you make sense of all of your opportunities. Your new organized life awaits.<br><br>
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](http://kambojtarun.pythonanywhere.com/)<br>
 ![made-with-HTML](https://img.shields.io/badge/HTML-5.0-ff5230?style=for-the-badge&logo=HTML5)
