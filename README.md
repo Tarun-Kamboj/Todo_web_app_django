@@ -1,4 +1,4 @@
-# Will, Your Personal Todo Assistant
+# Will, Your Todo Assistant
 
 Simply your Todos. A web application to help you make sense of all of your opportunities. Your new organized life awaits.<br><br>
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
