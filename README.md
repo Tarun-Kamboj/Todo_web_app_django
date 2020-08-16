@@ -21,6 +21,6 @@ Simply your Todos. A web application to help you make sense of all of your oppor
 | 1. Dark Mode | ![Image not found](/Readme_Images/todo4.png) |
 |-----|-----|
 | 2. Secure Authentication | ![Image not found](/Readme_Images/todo1.png) |
-| 3. You can mark any todo as `important` to give it a higher priority. | ![Image not found](/Readme_Images/todo6.png) |
+| 3. Todo can be marked as `important` to give it a higher priority. | ![Image not found](/Readme_Images/todo6.png) |
 
 ## Thanks for Reading!
