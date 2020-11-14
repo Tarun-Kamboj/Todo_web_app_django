@@ -14,7 +14,7 @@ Simply your Todos. A web application to help you make sense of all of your oppor
 | 2. Click on `+` button to add a todo. | ![Image not found](/Readme_Images/todo0.png) |
 | 3. Fill info for your todo then click `Save` and tada! your todo is saved. | ![Image not found](/Readme_Images/todo5.png) |
 | 4. You can view all your due todos in the `Current` tab. | ![Image not found](/Readme_Images/todo2.png) |
-| 5. Also, you can view all your comleted todos in the `Completed` tab. | ![Image not found](/Readme_Images/todo3.png) |
+| 5. Also, you can view all your completed todos in the `Completed` tab. | ![Image not found](/Readme_Images/todo3.png) |
 
 ## Features
 
