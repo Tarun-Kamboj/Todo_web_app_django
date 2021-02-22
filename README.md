@@ -7,6 +7,14 @@ Simply your Todos. A web application to help you make sense of all of your oppor
 ![made-with-Bootstrap](https://img.shields.io/badge/Bootstrap-4.0-7f50b5?style=for-the-badge&logo=Bootstrap)
 ![made-with-Django](https://img.shields.io/badge/Django-3.0-43993d?style=for-the-badge&logo=Django)
 
+## Intro
+
+Social media and other easily accessible online distractions make it hard for us to stay focused on our tasks and make it difficult for us to do our work efficiently.
+
+Also, constantly switching between tasks may give us the false feeling that we are being productive when we are, in fact, not. It’s more important for us to prioritize tasks and work on those that are most important, rather than focusing on deleting small items from our todo list just for the sake of appearances.
+
+The goal of this app is to help us become more aware of how we spend time in the process of doing those tasks and how productive that time is. It can help set some constraints on social media to reduce distraction and track the time we spend working on the todo items. When we have a better sense of the estimated time we’ll need to spend on our tasks, along with the validated time spent on the items for reference or personal/team reviews, we are able to manage our daily routines more efficiently.
+
 ## Working
 
 | 1. Sign up. | ![Image not found](/Readme_Images/todo7.png) |
